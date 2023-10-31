@@ -1,3 +1,8 @@
+@font-face {
+  font-family: buttermilk;
+  src: url(./Buttermilk.woff2);
+}
+
 #bulb{
   height:300px;
   width: 300px;
